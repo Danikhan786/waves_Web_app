@@ -99,8 +99,8 @@
                     <div class="col-md-6 col-lg-3">
                         <h4 class="text-white mb-4">Address</h4>
                         <p><i class="fa fa-map-marker-alt me-3"></i>1717 north bayshore drive Miami Florida.</p>
-                        <p><i class="fa fa-phone-alt me-3"></i>+177 426 21252</p>
-                        <p><i class="fa fa-envelope me-3"></i>info@example.com</p>
+                        <p><i class="fa fa-phone-alt me-3"></i>77 426 21252</p>
+                        <p><i class="fa fa-envelope me-3"></i>Selimlahoud@gmail.com</p>
                         <div class="d-flex pt-2">
                             <!-- <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a> -->
                             <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>

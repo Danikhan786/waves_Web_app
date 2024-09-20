@@ -16,6 +16,6 @@ class FrontendController extends Controller
     }
     public function termCondition()
     {
-        return view('frontend.privacyPolicy');
+        return view('frontend.termCondition');
     }
 }
